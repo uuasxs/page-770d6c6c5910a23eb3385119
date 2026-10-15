@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "7c8cdd2a0fc9b3bda7242d68",
+  "owner": "uuasxs",
+  "repo": "page-770d6c6c5910a23eb3385119",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "770d6c6c5910a23eb3385119",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "256eeef2e8542a898ae9b9a45dc8170b71af8bc8c98f9c8ad223c5934ff814f6",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转提供机场订阅与 VPN 网络加速，说明基础版、旗舰版和团队版流量与设备数，并给出官网客户端下载后的配置步骤与常见问题。",
+          "AI_DESCRIPTION": "GPT中转提供机场订阅与 VPN 网络加速，说明基础版、旗舰版和团队版流量与设备数，并给出官网客户端下载后的配置步骤与常见问题。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html{scroll-behavior:auto}body{margin:0;background:#f4efe4;color:#1a2e24;font-family:\"PingFang SC\",\"Noto Sans SC\",\"Microsoft YaHei\",system-ui,sans-serif;font-size:17px;line-height:1.7}main{max-width:880px;margin:0 auto;padding:20px 16px 48px}a{color:#1b4332;text-decoration-thickness:1px}h1,h2,h3{line-height:1.35;margin:0 0 12px}h1{font-size:1.85rem;color:#143528}h2{font-size:1.35rem;color:#1b4332;margin-top:8px}h3{font-size:1.08rem;color:#24543c}p{margin:0 0 12px}.lead{font-size:1.05rem}.banner{background:#1b4332;color:#f7f3ea;border-radius:16px;padding:22px 18px;margin-bottom:18px}.banner p{color:#e7f0ea}.banner a{color:#f3e7c4}.nav{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}.nav a{background:#f4efe4;color:#1b4332;text-decoration:none;border-radius:999px;padding:6px 12px;font-size:.92rem}section{background:#fffcf7;border:1px solid #e4d9c6;border-radius:16px;padding:18px 16px;margin:14px 0}.muted{color:#3e5348}.steps{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}.steps li{display:flex;gap:12px;align-items:flex-start;background:#f7f3ea;border-left:4px solid #2d6a4f;border-radius:12px;padding:12px}.num{flex:0 0 auto;width:32px;height:32px;border-radius:50%;background:#1b4332;color:#f7f3ea;display:flex;align-items:center;justify-content:center;font-weight:700}.cards{display:grid;grid-template-columns:1fr;gap:12px}.card{border:1px solid #d7cbb6;border-radius:14px;padding:14px;background:#fffdf9}.card.featured{background:#1b4332;color:#f6f1e6;border-color:#1b4332}.card.featured h3,.card.featured p,.card.featured li{color:#f6f1e6}.price{font-size:1.45rem;font-weight:700;margin:6px 0}.card ul{margin:8px 0 0;padding-left:18px}.tag{display:inline-block;background:#e7c56a;color:#1b4332;border-radius:999px;padding:2px 8px;font-size:.82rem;font-weight:700}.scene{margin:0 0 10px;padding-bottom:10px;border-bottom:1px solid #eadfcd}.scene:last-child{border-bottom:0;margin:0;padding:0}details{background:#f7f3ea;border-radius:12px;padding:10px 12px;margin:8px 0}summary{cursor:pointer;font-weight:700;color:#1b4332}footer{color:#3e5348;font-size:.92rem;padding:8px 4px}footer a{margin-right:10px}@media(min-width:760px){.cards{grid-template-columns:1fr 1fr 1fr}h1{font-size:2.15rem}}</style><main id=\"top\"><header class=\"banner\"><p class=\"muted\">网络加速 · 机场订阅 · 客户端下载</p><h1>GPT中转</h1><p class=\"lead\">GPT中转提供面向稳定跨境访问的机场订阅与 VPN 网络加速，官网可查看套餐、按步骤完成客户端配置，并按设备数量选择基础版、旗舰版或团队版。</p><nav class=\"nav\" aria-label=\"页内导航\"><a href=\"#about\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#steps\">配置流程</a><a href=\"#plans\">套餐</a><a href=\"#download\">官网下载</a><a href=\"#faq\">常见问题</a></nav></header><section id=\"about\"><h2>品牌简介</h2><p>GPT中转是一项独立的网络中转与加速服务，不隶属于任何模型厂商。服务围绕机场订阅、线路选择和多平台客户端展开，适合需要更稳定跨境连接的个人与小团队。</p><p>订阅开通后，用户在官网下载对应系统的客户端，导入订阅并更新节点，即可按场景使用普通线路或更高优先级的专线。页面说明聚焦选套餐、装客户端、导入订阅和检查连通，不替代各应用自身的账号与安全设置。</p><p class=\"muted\">节点质量受运营商、时段和目标网站策略影响。建议以实际开通后的订阅信息为准，并只从本页标明的官网下载入口获取客户端。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程协作</h3><p class=\"scene\">出差或跨地区办公时，用 GPT中转 VPN 保持文档、邮箱和会议工具的连续访问，减少因线路波动导致的反复重连。</p><h3>学习与资料同步</h3><p class=\"scene\">查阅公开课程、技术文档和云盘时，可选择延迟更低的节点。基础版适合偶尔使用，旗舰版更适合每天长时间在线。</p><h3>流媒体与游戏</h3><p class=\"scene\">旗舰版包含全节点原生流媒体解锁和 IPLC 专线游戏加速优化；基础版提供基础流媒体与普通线路节点池。具体片源和游戏服以节点实际可达为准。</p><h3>工具与接口访问</h3><p class=\"scene\">需要稳定打开海外网页或开发工具时，可把 GPT中转作为网络层加速，而不是账号共享或接口转售。请遵守目标服务的使用条款。</p><h3>团队共用</h3><p>团队版支持更多设备同时在线、VIP 高带宽节点、企业定制路由和专属客户经理，适合需要统一订阅与分流管理的小组。</p></section><section id=\"steps\"><h2>配置流程</h2><p>按下面的纵向步骤完成首次开通。每一步都可回退：套餐可在续费时更换，客户端可重新导入订阅。</p><ol class=\"steps\"><li><span class=\"num\">1</span><div><h3>确认场景与设备数</h3><p>先数清手机、电脑和平板。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。只给常用设备留名额，避免订阅被闲置设备占满。</p></div></li><li><span class=\"num\">2</span><div><h3>选择机场订阅套餐</h3><p>轻度浏览选基础版；经常看流媒体或打游戏选旗舰版；多人共用选团队版。月付便于试线路，年付按页面标价一次性支付。</p></div></li><li><span class=\"num\">3</span><div><h3>从官网下载客户端</h3><p>在本页<a href=\"#download\">客户端下载</a>确认系统，再前往 GPT中转官网下载对应安装包。不要使用来源不明的“破解版”或他人转发的安装文件。</p></div></li><li><span class=\"num\">4</span><div><h3>导入订阅并更新节点</h3><p>复制开通后给出的订阅地址，在客户端选择“从链接导入”或“更新订阅”。导入成功后应看到节点列表；若为空，检查链接是否完整、是否过期。</p></div></li><li><span class=\"num\">5</span><div><h3>选择线路并打开加速</h3><p>先选延迟较低的普通节点做网页测试，再按需要切换流媒体或游戏优化线路。同一时间只开一个系统代理，避免多个加速器互相抢占。</p></div></li><li><span class=\"num\">6</span><div><h3>检查连通并保存配置</h3><p>分别打开常用网站和目标应用。正常后保留当前订阅，不把订阅链接发到公开群组。流量接近月额度时，客户端通常会提示，可降频使用或升级套餐。</p></div></li></ol></section><section id=\"plans\"><h2>套餐与流量</h2><p>以下为 GPT中转当前示意套餐。价格以人民币计，年付为一次付清的年度价格，不是每月再扣年费。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p>按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><span class=\"tag\">常用</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p>按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p>按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"download\"><h2>客户端下载与官网入口</h2><p>GPT中转官网下载只提供各系统的正式客户端说明。本页链接均为页内锚点，实际安装包以开通邮件或账户页显示的官方下载地址为准。</p><h3>建议的安装顺序</h3><p>Windows 与 macOS：先安装客户端，再导入订阅，最后设置系统代理为“手动”或“按客户端接管”。手机：安装后允许 VPN 配置描述文件或本地 VPN 权限，仅在需要时连接。</p><p><a href=\"#steps\">返回配置流程</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">下载与连通问题</a></p><p class=\"muted\">若安装包哈希或版本号与账户页不一致，停止安装并向客服核对。GPT中转不会索取短信验证码或支付密码。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>GPT中转机场订阅和临时公共节点有什么不同？</summary><p>机场订阅把节点、流量和设备数绑定到你的套餐，客户端可以一键更新。临时公共节点往往没有流量说明，也不保证流媒体或游戏线路。GPT中转按基础版、旗舰版、团队版区分额度与支持级别。</p></details><details><summary>第一次使用 VPN 客户端要做哪些操作？</summary><p>选择套餐后，从官网下载对应系统客户端，复制订阅地址并导入，更新节点，选一个延迟较低的线路，再打开常用网页测试。详细顺序见本页配置流程。不要同时启用另一个加速器。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>每月大约 100GB、3 台设备以内，选基础版。需要 300GB、流媒体解锁和游戏专线优化，选旗舰版。20 台设备、高带宽和定制路由，选团队版。年付价格分别为 ¥150、¥350 和 ¥850。</p></details><details><summary>官网下载客户端时如何避免装错包？</summary><p>只使用账户页或开通说明里的官方下载地址，并核对系统是 Windows、macOS、Android 还是 iOS。文件来自群文件、网盘二次压缩包或要求关闭安全防护的安装器时，不要继续。装好后只导入自己的订阅链接。</p></details><details><summary>节点连不上或很慢时先查什么？</summary><p>先更新订阅，换同区域另一个节点，确认没有第二个代理在运行，再检查本地网络是否正常。流量用尽时加速会变慢或中断，可等到周期刷新或升级套餐。仍失败时提交工单，旗舰版含优先支持。</p></details><details><summary>订阅链接可以分享给别人吗？</summary><p>不建议。设备数按套餐同时在线计算，公开分享会导致额度被占满，也可能使订阅被重置。团队使用请走团队版，由管理员分配设备，而不是转发个人订阅。</p></details><details><summary>年付之后可以更换套餐吗？</summary><p>可以在下一个计费周期更换档位。未用完的流量一般不结转到下月，具体以开通页规则为准。更换前导出或记住当前客户端配置，新订阅导入后删除旧订阅，避免连到过期节点。</p></details></section><footer><p>GPT中转官方网站说明页。服务用于合法的网络访问与加速，请同时遵守当地法律和目标网站条款。</p><p><a href=\"#top\">返回顶部</a><a href=\"#download\">官方下载</a><a href=\"#plans\">套餐说明</a></p></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "7c2836b8e66e3e75a0b77dcba83d5b8702ac5866c22db32285a0fb50c9955a5d",
+          "seo": {
+            "title": "GPT中转官网：机场订阅、VPN 网络加速与客户端下载",
+            "keywords": "GPT中转,GPT中转机场,GPT中转VPN,机场订阅,网络加速,加速器,客户端下载,官网下载,梯子",
+            "description": "GPT中转提供机场订阅与 VPN 网络加速，说明基础版、旗舰版和团队版流量与设备数，并给出官网客户端下载后的配置步骤与常见问题。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rajrsyj.cn",
+    "host": "p-62f30145fa.rajrsyj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "f82f255e3fba3c2e8d251cf7617a32354890bd441ea12b4140e74a7fe718876e",
+    "sitemap.xml": "a742896364f53fafd119f6acfca09886f71fc87091563192289a4caaaab41ac1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0c024caada61f2e91cb5eb6dd1c4be52a77b0e473303c8985c77d97940267749",
+    "robots.txt": "0a15707d6ffb367df1d89f04b3e6ae410b8b0defc47c8c98eda6ff354de3e194",
+    "d5f30f65ed0e3a6642b100d66baa1c75.txt": "414a2ab77b8b13fa8db019e147dab6d5d9fb371c6d64db4fd19a90ae3d35935e"
+  },
+  "revision": "afc014ed749c357feb08cdf8423d233ad1df35d21956a9a5231687cf7c359e47"
+}
